@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+nav.navbar {
+  min-height: unset;
+  /* max-height: unset; */
+  height: 5rem;
+}
+
+.navbar-item-imagen {
+  background: url(https://i.ibb.co/26CCQnJ/logo-Arg-Prog.png) no-repeat center center;
+  background-size: 9rem;
+  width: 13rem
+}
+
+.redes {
+  filter: invert(100%);
+}
